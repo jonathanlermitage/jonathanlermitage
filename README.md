@@ -1,16 +1,23 @@
-### Hi there 👋
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
-<!--
-**jonathanlermitage/jonathanlermitage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Senior Backend Software Developer](https://www.linkedin.com/in/jonathan-lermitage/) playing with IntelliJ plugins, Spring Boot, Java, Kotlin, Python, Docker and Kubernetes :cat:.  
+Some of my projects:  
+* Plugins for IntelliJ IDEA based IDEs:
+  * [**Extra ToolWindow Colorful Icons**](https://plugins.jetbrains.com/plugin/16604-extra-toolwindow-colorful-icons) ([issues](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub)) (closed source): one of the most popular plugins for IntelliJ. Makes tool window icons colorful.
+  * [**Extra Icons**](https://plugins.jetbrains.com/plugin/11058-extra-icons) ([issues](https://github.com/jonathanlermitage/intellij-extra-icons-plugin)) (open source until Jan 2024): makes your IDE more pleasant to use. Adds 500+ icons for files like Travis YML, GitLab YML, Angular files, etc. Supports Git submodule folders and some popular frameworks. Highly customizable. You can also register your own icons.
+  * [**Extra IDE Tweaks**](https://plugins.jetbrains.com/plugin/23927-extra-ide-tweaks) ([issues](https://github.com/jonathanlermitage/intellij-extra-ide-tweaks)) closed source): some utilities for IDE maintenance and tweaking, plus workarounds for a few IDE issues.
+  * [**Extra Tools Pack**](https://plugins.jetbrains.com/plugin/24559-extra-tools-pack) ([issues](https://github.com/jonathanlermitage/ij-extra-all-plugins-pack-pub)) (closed source): Extra Icons + Extra IDE Tweaks packaged into a new plugin, at a lower price.
+  * [Battery Status](https://plugins.jetbrains.com/plugin/12321-battery-status) ([src](https://github.com/jonathanlermitage/intellij-battery-status-plugin)): displays battery information in the status bar. Works on Windows/Linux/macOS.
+  * [WorldClock](https://plugins.jetbrains.com/plugin/17816-world-clock) ([src](https://github.com/jonathanlermitage/ij-worldclock)): shows one or two customizable clocks in the status bar. By default, shows current time at Montreal (Canada) and Paris (France).
+  * [Night And Day](https://plugins.jetbrains.com/plugin/16550-night-and-day) ([src](https://github.com/jonathanlermitage/intellij-night-and-day-plugin)): shows in status bar how much time left in percentage or duration (until the end of day, week, month, year, or a custom date time).
+  * [I Love DevToys](https://plugins.jetbrains.com/plugin/20198-i-love-devtoys) ([src](https://github.com/jonathanlermitage/ij-ilove-devtoys)): highly inspired from the DevToys software available on Windows. Find useful tools in a Tool Window in the top right corner of your IDE.
+  * [Icon Viewer 2](https://plugins.jetbrains.com/plugin/13995-icon-viewer-2) ([src](https://github.com/jonathanlermitage/IconViewer)): a maintained and improved fork of the excellent IconViewer plugin. Preview project images as an icon in your project explorer.
+  * [Darcula Sombre](https://plugins.jetbrains.com/plugin/12264-darcula-sombre) ([src](https://github.com/jonathanlermitage/intellij-darcula-sombre-theme)): like Darcula Theme, with darker colors and unobtrusive borders.
+* [**Manon**](https://github.com/jonathanlermitage/manon): a demo for playing with SpringBoot 2&3, JWT, Querydsl, GraphQL, Docker, ELK, PostgreSQL, MariaDB, Redis, MongoDB, Flyway, Maven, Gradle, TestNG, JUnit5, JaCoCo, GreenMail, CI, Quality Gates, Prometheus, Gatling...
+* [**Software Update Bot**](https://github.com/jonathanlermitage/software-updates-bot): be notified about your favourite stuff updates with RSS and Atom feeds, MD and JSON reports. Runs every 4 hours on a GitHub Action.
+* [**OGA Maven Plugin**](https://github.com/jonathanlermitage/oga-maven-plugin): Old GroupIds Alerter - A Maven plugin that checks for deprecated groupId+artifactId (e.g. did you know that graphql-spring-boot-starter moved from com.graphql-java to com.graphql-java-kickstart?).
+* [OGA Gradle Plugin](https://github.com/jonathanlermitage/oga-gradle-plugin): like OGA Maven Plugin, but for Gradle. 
+* [**Simple Backup Go**](https://github.com/jonathanlermitage/simple-backup-go): a simple command-line backup tool written in Go. Works with 7-Zip. Windows only. This is what I am using in order to back up my data.
+* [Captvty Installer](https://github.com/jonathanlermitage/captvty-installer): Create an installer for Captvty. Créez un installeur pour Captvty. 🇫🇷
+* [TikiOne JaCoCoverage](https://github.com/jonathanlermitage/tikione-jacocoverage) (archived): NetBeans module that provides JaCoCo code coverage for Ant based Java SE, Java EE and NetBeans Module projects (JDK5,6,7,8 compatible).
+* [TikiOne Steam Cleaner](https://github.com/jonathanlermitage/tikione-steam-cleaner) (archived): Steam/GOG/Origin games redistributable packages finder and remover. Available in 13 languages. Was very popular among gamers (100.000+ regular users, 1M+ downloads from Sourceforge, GitHub and most popular download websites).
