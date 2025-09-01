@@ -1,6 +1,6 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
-[Senior Backend Software Developer](https://www.linkedin.com/in/jonathan-lermitage/), currently playing with Spring Boot, IntelliJ Plugins and Godot :cat:.  
+[Senior Software Developer](https://www.linkedin.com/in/jonathan-lermitage/), currently playing with Spring Boot, IntelliJ Plugins and Godot :cat:.  
 Some of my projects:  
 * Plugins for IntelliJ IDEA based IDEs:
   * [**Extra ToolWindow Colorful Icons**](https://plugins.jetbrains.com/plugin/16604-extra-toolwindow-colorful-icons) ([issues](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub)) (closed source, freemium): one of the most popular plugins for IntelliJ. Makes tool window icons colorful.
