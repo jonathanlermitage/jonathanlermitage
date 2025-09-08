@@ -22,6 +22,6 @@ Some of my projects:
 * [**OGA Maven Plugin**](https://github.com/jonathanlermitage/oga-maven-plugin): Old GroupIds Alerter - A Maven plugin that checks for deprecated groupId+artifactId (e.g. did you know that graphql-spring-boot-starter moved from com.graphql-java to com.graphql-java-kickstart?).
 * [OGA Gradle Plugin](https://github.com/jonathanlermitage/oga-gradle-plugin): like OGA Maven Plugin, but for Gradle. 
 * [**Simple Backup Go**](https://github.com/jonathanlermitage/simple-backup-go): a simple command-line backup tool written in Go. Works with 7-Zip. Windows only. This is what I am using in order to back up my data.
-* [Captvty Installer](https://github.com/jonathanlermitage/captvty-installer): Create an installer for Captvty. Créez un installeur pour Captvty. 🇫🇷
+* [Captvty Installer](https://github.com/jonathanlermitage/captvty-installer): create an installer for Captvty. Créez un installeur pour Captvty. 🇫🇷
 * [TikiOne JaCoCoverage](https://github.com/jonathanlermitage/tikione-jacocoverage) (archived): NetBeans module that provides JaCoCo code coverage for Ant based Java SE, Java EE and NetBeans Module projects (JDK5,6,7,8 compatible).
 * [TikiOne Steam Cleaner](https://github.com/jonathanlermitage/tikione-steam-cleaner) (archived): Steam/GOG/Origin games redistributable packages finder and remover. Available in 13 languages. Was very popular among gamers (100.000+ regular users, 1M+ downloads from Sourceforge, GitHub and most popular download websites).
